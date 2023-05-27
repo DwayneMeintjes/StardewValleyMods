@@ -1,0 +1,6 @@
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\EnergyInfinite\EnergyInfinite\bin\Debug\EnergyInfinite.dll
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\EnergyInfinite\EnergyInfinite\bin\Debug\EnergyInfinite.pdb
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\EnergyInfinite\EnergyInfinite\obj\Debug\EnergyInfinite.csproj.AssemblyReference.cache
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\EnergyInfinite\EnergyInfinite\obj\Debug\EnergyInfinite.csproj.CoreCompileInputs.cache
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\EnergyInfinite\EnergyInfinite\obj\Debug\EnergyInfinite.dll
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\EnergyInfinite\EnergyInfinite\obj\Debug\EnergyInfinite.pdb

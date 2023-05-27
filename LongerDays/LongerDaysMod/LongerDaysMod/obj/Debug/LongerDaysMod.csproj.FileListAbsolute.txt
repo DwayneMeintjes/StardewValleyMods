@@ -1,0 +1,6 @@
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\LongerDays\LongerDaysMod\LongerDaysMod\bin\Debug\LongerDaysMod.dll
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\LongerDays\LongerDaysMod\LongerDaysMod\bin\Debug\LongerDaysMod.pdb
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\LongerDays\LongerDaysMod\LongerDaysMod\obj\Debug\LongerDaysMod.csproj.AssemblyReference.cache
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\LongerDays\LongerDaysMod\LongerDaysMod\obj\Debug\LongerDaysMod.csproj.CoreCompileInputs.cache
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\LongerDays\LongerDaysMod\LongerDaysMod\obj\Debug\LongerDaysMod.dll
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\LongerDays\LongerDaysMod\LongerDaysMod\obj\Debug\LongerDaysMod.pdb

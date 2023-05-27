@@ -1,0 +1,9 @@
+{
+  "Name": "Your Project Name",
+  "Author": "your name",
+  "Version": "1.0.0",
+  "Description": "One or two sentences about the mod.",
+  "UniqueID": "YourName.YourProjectName",
+  "EntryDll": "YourDllFileName.dll",
+  "UpdateKeys": []
+}

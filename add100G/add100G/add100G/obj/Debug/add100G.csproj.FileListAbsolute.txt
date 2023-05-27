@@ -1,0 +1,6 @@
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\add100G\add100G\add100G\bin\Debug\add100G.dll
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\add100G\add100G\add100G\bin\Debug\add100G.pdb
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\add100G\add100G\add100G\obj\Debug\add100G.csproj.AssemblyReference.cache
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\add100G\add100G\add100G\obj\Debug\add100G.csproj.CoreCompileInputs.cache
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\add100G\add100G\add100G\obj\Debug\add100G.dll
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\add100G\add100G\add100G\obj\Debug\add100G.pdb

@@ -1,0 +1,9 @@
+﻿{
+    "Name": "Add 100 G",
+    "Author": "QuantumNeuron",
+    "Version": "1.0.0",
+    "Description": "One or two sentences about the mod.",
+    "UniqueID": "QuantumNeuron.add100G",
+    "EntryDll": "add100G.dll",
+    "UpdateKeys": []
+}

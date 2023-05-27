@@ -1,0 +1,10 @@
+{
+  "Name": "LongerDaysMod",
+  "Author": "QuantumNeuron",
+  "Version": "1.0.0",
+  "Description": "A mod that makes the days in Stardew Valley longer.",
+  "UniqueID": "QuantumNeuron.LongerDaysMod",
+  "EntryDll": "LongerDaysMod.dll",
+  "MinimumApiVersion": "3.0.0"
+}
+

@@ -1,0 +1,9 @@
+{
+  "Name": "Infinite Energy",
+  "Author": "QuantumNeuron",
+  "Version": "1.3.0",
+  "Description": "Stamina will not run out",
+  "UniqueID": "QuantumNeuron.InfiniteEnergy",
+  "EntryDll": "InfiniteEnergy.dll",
+  "UpdateKeys": []
+}

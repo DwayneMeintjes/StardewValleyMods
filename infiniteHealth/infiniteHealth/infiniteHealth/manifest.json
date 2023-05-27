@@ -1,0 +1,9 @@
+{
+  "Name": "Infinite Health",
+  "Author": "QuantumNeuron",
+  "Version": "1.3.0",
+  "Description": "Health will never deplete.",
+  "UniqueID": "QuantumNeuron.InfiniteHealth",
+  "EntryDll": "InfiniteHealth.dll",
+  "UpdateKeys": []
+}

@@ -1,0 +1,6 @@
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\infiniteHealth\infiniteHealth\infiniteHealth\bin\Debug\infiniteHealth.dll
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\infiniteHealth\infiniteHealth\infiniteHealth\bin\Debug\infiniteHealth.pdb
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\infiniteHealth\infiniteHealth\infiniteHealth\obj\Debug\infiniteHealth.csproj.AssemblyReference.cache
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\infiniteHealth\infiniteHealth\infiniteHealth\obj\Debug\infiniteHealth.csproj.CoreCompileInputs.cache
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\infiniteHealth\infiniteHealth\infiniteHealth\obj\Debug\infiniteHealth.dll
+C:\Users\dwayn\OneDrive\Desktop\Mods\StardewValley\infiniteHealth\infiniteHealth\infiniteHealth\obj\Debug\infiniteHealth.pdb
